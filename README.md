@@ -11,11 +11,11 @@
 ## Screenshot
 
 ![App Screenshot](https://github.com/youssefadbz/Recipe-App/blob/main/Screenshot.png)
-=====================================================================================
+------------------------------------------------------------------------------------
 ![App Screenshot](https://github.com/youssefadbz/Recipe-App/blob/main/Screenshot%202.png)
 ----------------------------------------------------------------------------------------
 ![App Screenshot](https://github.com/youssefadbz/Recipe-App/blob/main/Screenshot%203.png)
-
+----------------------------------------------------------------------------------------
 ![App Screenshot](https://github.com/youssefadbz/Recipe-App/blob/main/Screenshot%204.png)
 
 
