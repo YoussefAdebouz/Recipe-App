@@ -8,7 +8,7 @@
 - [@youssefadbz](https://www.github.com/youssefadbz)
 
 
-## Screenshot
+## Screenshots
 
 ![App Screenshot](https://github.com/youssefadbz/Recipe-App/blob/main/Screenshot.png)
 ------------------------------------------------------------------------------------
